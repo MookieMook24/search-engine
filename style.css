@@ -55,7 +55,7 @@ search-form {
 }
 
 p {
-    text-align: center;
+    position: relative;
     font-size: 20px;
     color: #fd94b4;
 }
